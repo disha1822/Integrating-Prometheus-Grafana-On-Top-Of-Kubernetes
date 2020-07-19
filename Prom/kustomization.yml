@@ -3,6 +3,7 @@ kind: Kustomization
 
 resources:
   - pvc-prom.yml
+  - configmap-prom.yml
   - deploy-prom.yml
   - svc-prom.yml
   
