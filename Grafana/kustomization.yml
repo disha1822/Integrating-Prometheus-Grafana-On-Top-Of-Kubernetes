@@ -5,4 +5,5 @@ resources:
   - pvc-graf.yml
   - deploy-graf.yml
   - svc-graf.yml
+  - configmap-graf.yml
   
