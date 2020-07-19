@@ -5,7 +5,6 @@ metadata:
 data:
   datasource.yaml: |
     apiVersion: 1
-	
   datasources:
     - name: Prometheus
       type: prometheus
